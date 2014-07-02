@@ -6,3 +6,11 @@ body {
   padding: 40px 15px;
   text-align: center;
 }
+
+.footer {
+	font-size: 80%;
+	position: absolute;
+	bottom: 0;
+	padding: 10px;
+	margin: 10px;
+}
